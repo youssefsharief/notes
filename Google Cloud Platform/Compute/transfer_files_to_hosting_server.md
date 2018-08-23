@@ -1,0 +1,1 @@
+* You could directly transfer files from your local PC to compute instances but the problem is that the commands would depend on the operating systems of your PC and the instances therefore a storage bucket could act as an intermediary since it has a fixed api
